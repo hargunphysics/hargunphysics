@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am an ambitious 16 year old high schooler studying 12th grade in a cbse affiliated school. Still a beginner but constantly expanding my skills in coding, development, physics and more. 
+I am an ambitious 16 year old high schooler studying 12th grade in a cbse affiliated school. Still a beginner but constantly expanding my skills in coding, development, physics and more. Aspiring to be an astrophysicist one day.
 
 <!--
 **hargunphysics/hargunphysics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
