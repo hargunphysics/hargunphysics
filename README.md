@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am an ambitious 16 year old high schooler studying 12th grade in a cbse affiliated school.
+I am an ambitious 16 year old high schooler studying 12th grade in a cbse affiliated school. Still a beginner but constantly expanding my skills in coding, development, physics and more. 
 
 <!--
 **hargunphysics/hargunphysics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 ### Certifications
 * **Python Developer Certificate** – SoloLearn (Issued: 2026) | [Verify Certificate Link Here](https://api2.sololearn.com/v2/certificates/CC-9HF6O4YL/image/png?t=639188541276801170)
-* 
+  
